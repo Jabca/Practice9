@@ -1,2 +1,8 @@
 # python virtual enviromet
 .venv
+
+# pycache
+__pycache__
+
+# temporary files
+tmp
